@@ -1,6 +1,2 @@
 # created by virtualenv automatically
-.vscode/settings.json
-/.mypy_cache
-/.ruff_cache
-/duckdb
-requirements.txt
+.duck/
