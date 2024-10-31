@@ -1,1 +1,1 @@
-print("duck db snippet")
+print("duck db snippet one")
